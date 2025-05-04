@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gantulga Gantuya
+# 👋 Hello, I'm Gantuya
 
 🎓 A graduate of Pinecone Academy's full-stack development program.
 
